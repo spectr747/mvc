@@ -1,5 +1,5 @@
 AddDefaultCharset utf-8
 
 RewriteEngine On
-RewriteBase /sites/php-new/mvc/
+RewriteBase /
 RewriteRule ^(.*)$ index.php
